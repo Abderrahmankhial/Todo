@@ -3,8 +3,9 @@ A todo web application made with django
 
 ## Quick start Guide 
 cd into the project folder then :
+'''bash
 python || python3  manage.py runserver
-
+'''
 # Features 
 not so many its just a learning mini project to get experience in the framework 
 1-adding task 
