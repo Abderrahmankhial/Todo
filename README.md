@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to contact me.
 
-💌 [Email](raymanabdou@gmail.com)
+💌 Email : Raymanabdou@gmail.com
