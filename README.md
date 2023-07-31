@@ -30,7 +30,7 @@ Updating tasks: Modify the task details or mark them as completed.
 
 Deletion: Remove tasks from the list in case of any mistakes.
 
-Contributing
+## Contributing
 Contributions are always welcome! If you find any issues or want to add enhancements to the project, feel free to open a pull request.
 
 ## License
