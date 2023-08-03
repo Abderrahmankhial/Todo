@@ -8,15 +8,10 @@ Follow these steps to get the Todo web application up and running:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/your-repo.git
 
 # Step 2: Navigate to the project folder
-cd your-repo
 
-# Step 3: Install dependencies
-pip install -r requirements.txt
-
-# Step 4: Run the development server
+# Step 3: Run the development server
 python manage.py runserver
 Save to grepper
 Once the server is running, open your web browser and go to http://127.0.0.1:8000/ to access the Todo application.
